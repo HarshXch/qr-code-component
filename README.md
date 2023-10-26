@@ -4,7 +4,7 @@ Check out the live demo [here](https://qr-codeharshx.netlify.app).
 
 ## Preview
 
-<div style="display: grid; justify-items: center;">
+<div style="display: grid; justify-items: center; overflow :hidden ">
   <img src="public/qr.png" alt="Project Preview" style="width: 70%; height: auto; border-radius: 12px;">
 </div>
 
