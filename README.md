@@ -5,7 +5,7 @@ Check out the live demo [here](https://qr-codeharshx.netlify.app).
 ## Preview
 
 <div style="display: grid; justify-items: center;">
-  <img src="qr.png" alt="Project Preview" style="width: 70%; height: auto; border-radius: 5px;">
+  <img src="public/qr.png" alt="Project Preview" style="width: 70%; height: auto; border-radius: 5px;">
 </div>
 
 📱 A QR Code Component built using React.js and Tailwind CSS.
